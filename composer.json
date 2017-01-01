@@ -1,0 +1,15 @@
+{
+    "name": "yangyifan/administrator-login-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangyifan",
+            "email": "yangyifanphp@gmail.com"
+        }
+    ],
+  "autoload": {
+    "psr-4": {
+      "Yangyifan\\Administrator\\Login\\": "./src"
+    }
+  }
+}
